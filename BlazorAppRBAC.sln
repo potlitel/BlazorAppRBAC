@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppRBAC.Server", "BlazorAppRBAC\Server\BlazorAppRBAC.Server.csproj", "{3DE22A05-CFB8-45CE-8130-3030C829FCC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppRBAC.Server", "BlazorAppRBAC\Server\BlazorAppRBAC.Server.csproj", "{3DE22A05-CFB8-45CE-8130-3030C829FCC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppRBAC.Client", "BlazorAppRBAC\Client\BlazorAppRBAC.Client.csproj", "{1AA14E96-DEF6-446C-8F49-C391D7E8126D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppRBAC.Client", "BlazorAppRBAC\Client\BlazorAppRBAC.Client.csproj", "{1AA14E96-DEF6-446C-8F49-C391D7E8126D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppRBAC.Shared", "BlazorAppRBAC\Shared\BlazorAppRBAC.Shared.csproj", "{1B01F595-EA15-4048-8533-1E16A4B2AB93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppRBAC.Shared", "BlazorAppRBAC\Shared\BlazorAppRBAC.Shared.csproj", "{1B01F595-EA15-4048-8533-1E16A4B2AB93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
