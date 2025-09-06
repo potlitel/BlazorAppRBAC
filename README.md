@@ -1,1 +1,1 @@
-# BlazorAppRBAC
+# 🔒BlazorAppRBAC
